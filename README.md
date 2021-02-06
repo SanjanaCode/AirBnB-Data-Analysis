@@ -13,11 +13,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-Our dataset was provided by Airbnb, a vacation online rental comapany where locals can provide accomodation to tourists and travellers for a set price. Our data is a set of all the different rentals that took place before the 17th of December 2020 in Dublin, Ireland, along with information like the neighbourhood, the type of room, the host name, and the price. This data was published by Airbnb as a way for them to be transparent with the general public, as well as public interest to compare tourism trends in different cities. Finally, this data was collected through digital means, compiling all of Airbnb's historical bookings in Dublin Ireland into one dataset. 
+Our dataset was provided by Airbnb, a vacation online rental company where locals can provide accomodation to tourists and travellers for a set price. Our data is a set of all the different rentals that took place before the 17th of December 2020 in Dublin, Ireland, along with information like the neighbourhood, the type of room, the host name, and the price. The dataset also provides the exact geographical location of the bookings, with both the longitude and the latitude specified. It has 7895 rows and 16 variables (columns). This data was published by Airbnb as a way for them to be transparent with the general public, as well as public interest to compare tourism trends in different cities. Finally, this data was collected through digital means, compiling all of Airbnb's historical bookings in Dublin, Ireland into one dataset. 
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Person 1: My name is Mashad Chowdhury and I am a 2nd year majoring in Math/CS!  
 - Person 2: one sentence about you!
 - Person 3: Hi , My name is Harsimar and I am a second year computer science student!
 
