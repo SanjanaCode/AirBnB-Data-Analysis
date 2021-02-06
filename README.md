@@ -18,7 +18,7 @@ Our dataset was provided by Airbnb, a vacation online rental company where local
 ## Team Members
 
 - Person 1: My name is Mashad Chowdhury and I am a 2nd year majoring in Math/CS!  
-- Person 2: one sentence about you!
+- Person 2: My name is Sanjana Kanchamreddy and I am a second year majoring in Computer SCience!
 - Person 3: Hi , My name is Harsimar and I am a second year computer science student!
 
 ## References
