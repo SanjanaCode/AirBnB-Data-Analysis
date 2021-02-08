@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+By analyzing the data, we can identify trends about the most popular locations to stay, the types of accommodation preferred and the most rated bnbs. The company can use this information to improve their services and can make more informed decisions regarding future developments.
 
 ## Describe your dataset in about 150-200 words
 
