@@ -1,1 +1,1 @@
-This file contains processed and raw data.
+This directory contains processed and raw data.
