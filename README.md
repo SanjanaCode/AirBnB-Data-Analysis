@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-As more and more people want to travel and explore new places in the world, tourism is fast gaining popularity and has consequently led to overcrowding in many major tourist destinations. Airbnbs have helped in reducing the overcrowding in hotels by providing equally promising accommodation options at lower costs. They have also contributed to the local income, thus improving the economy and increasing tourism prospects. By analyzing the data, we can identify trends about the most popular locations to stay, the types of accommodation preferred and the most rated bnbs. The company can use this information to improve their services and can make more informed decisions regarding future developments. 
+As more and more people want to travel and explore new places around the world, tourism is fast gaining popularity and has consequently led to overcrowding in many major tourist destinations. Airbnbs have helped in reducing the overcrowding in hotels by providing equally promising accommodation options at lower costs. They have also contributed to the local income, thus improving the economy and increasing tourism prospects. By analyzing our dataset, we can identify trends about the most popular locations to stay, the types of accommodation preferred, and the most rated Bnbs. The company can use this information to improve its services and make more informed decisions regarding future developments.
 
 ## Describe your dataset in about 150-200 words
 
