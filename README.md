@@ -23,4 +23,5 @@ Our dataset was provided by Airbnb, a vacation online rental company where local
 
 ## References
 
-{Add your stuff here}
+Website used to get rawdata(Dublin, Leinster, Ireland)
+URL - http://insideairbnb.com/get-the-data.html
