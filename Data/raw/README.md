@@ -1,1 +1,2 @@
-The file contains raw data 
+The directory contains raw data. 
+
