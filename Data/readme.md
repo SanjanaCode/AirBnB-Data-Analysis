@@ -1,1 +1,3 @@
-This directory contains processed and raw data.
+# Data:
+
+* This directory contains **processed** and **raw data**.
