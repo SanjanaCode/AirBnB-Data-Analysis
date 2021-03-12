@@ -9,7 +9,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-As more and more people want to travel and explore new places around the world, tourism is fast gaining popularity and has consequently led to overcrowding in many major tourist destinations. Airbnbs have helped in reducing the overcrowding in hotels by providing equally promising accommodation options at lower costs. They have also contributed to the local income, thus improving the economy and increasing tourism prospects. By analyzing our dataset, we can identify trends about the most popular locations to stay in, the types of accommodation preferred, and the most rated Bnbs. The company can use this information to improve its services and make more informed decisions regarding future developments. Finally, we could use the results from our analysis throughout the course of this project to build a user facing Dashboard that would analyse, contain key metrics and data points, as well as display key performance indicators (KPI), specific to Airbnb.  
+*As more and more people want to travel and explore new places around the world, tourism is fast gaining popularity and has consequently led to overcrowding in many major tourist destinations. Airbnbs have helped in reducing the overcrowding in hotels by providing equally promising accommodation options at lower costs. They have also contributed to the local income, thus improving the economy and increasing tourism prospects. By analyzing our dataset, we can identify trends about the most popular locations to stay in, the types of accommodation preferred, and the most rated Bnbs. The company can use this information to improve its services and make more informed decisions regarding future developments. Finally, we could use the results from our analysis throughout the course of this project to build a user facing Dashboard that would analyse, contain key metrics and data points, as well as display key performance indicators (KPI), specific to Airbnb.*
+
+---
 
 ## Describe your dataset in about 150-200 words
 
@@ -17,9 +19,9 @@ Our dataset was provided by Airbnb, a vacation online rental company where local
 
 ## Team Members
 
-- Person 1: My name is Mashad Chowdhury and I am a 2nd year majoring in Math/CS!  
-- Person 2: My name is Sanjana Kanchamreddy and I am a second year student majoring in Computer Science!
-- Person 3: Hi , My name is Harsimar and I am a second year computer science student!
+- **Person 1:** My name is Mashad Chowdhury and I am a 2nd year majoring in Math/CS!  
+- **Person 2:** My name is Sanjana Kanchamreddy and I am a second year student majoring in Computer Science!
+- **Person 3:** Hi , My name is Harsimar and I am a second year computer science student!
 
 ## References
 
