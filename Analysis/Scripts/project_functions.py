@@ -10,7 +10,7 @@ def load_and_process(csv_file_path):
 
     df1 = (
           pd.read_csv(csv_file_path)
-          .dropna(axis=1, how='all')                        #drops the neighbourhood column where all whole column is empty.
+          .dropna(axis=1, how='all')                        #drops the neighbourhood_group column where the whole column is empty.
           .drop(['last_review','reviews_per_month'],axis=1)
           .applymap(lambda x:x.lower() if type(x) == str else x)
       )
