@@ -25,6 +25,7 @@ Our dataset was provided by Airbnb, a vacation online rental company where local
 ## Tableau Workbook Links (Lab 7):
 
 The links to each group member's Tableau dashboards can be found here:
+
 **Sanjana:** https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_Sanjana_Group1025/EDADashboard?:iid=6
 
 ## References
