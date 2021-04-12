@@ -30,6 +30,8 @@ The links to each group member's Tableau dashboards can be found here:
 
 **Harsimar** https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346829?:origin=card_share_link
 
+**Mashad** https://us-west-2b.online.tableau.com/#/site/data301/workbooks/347029/views
+
 ## References
 
 Website used to get rawdata(Cape Town, Western Cape, South Africa)
