@@ -32,6 +32,10 @@ The links to each group member's Tableau dashboards can be found here:
 
 **Mashad** https://us-west-2b.online.tableau.com/#/site/data301/workbooks/347029/views
 
+## Video Presentation:
+
+https://youtu.be/yCvuurHfHr0
+
 ## References
 
 Website used to get rawdata(Cape Town, Western Cape, South Africa)
